@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ASUS/Documents/Unreal Projects/ObstacleAssault/Content/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ASUS/Documents/Unreal Projects/ObstacleAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/ASUS/Documents/Unreal Projects/ObstacleAssault/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/ASUS/Documents/Unreal Projects/ObstacleAssault/Content/BP_MovingPlatform.uasset",
+				"C:/Users/ASUS/Documents/Unreal Projects/ObstacleAssault/Content/BP_PushingCube.uasset",
+				"C:/Users/ASUS/Documents/Unreal Projects/ObstacleAssault/Content/Blueprints/BP_ObstacleAssaultGameMode.uasset",
+				"C:/Users/ASUS/Documents/Unreal Projects/ObstacleAssault/Content/BP_ObstacleAssaultGameMode.uasset",
+				"C:/Users/ASUS/Documents/Unreal Projects/ObstacleAssault/Content/BP_RotatingPlatform.uasset",
+				"C:/Users/ASUS/Documents/Unreal Projects/ObstacleAssault/Content/LearningKit_Games/Maps/Untitled.umap",
+				"C:/Users/ASUS/Documents/Unreal Projects/ObstacleAssault/Content/Untitled.umap",
+				"C:/Users/ASUS/Documents/Unreal Projects/ObstacleAssault/Content/Untitled1.umap",
+				"C:/Users/ASUS/Documents/Unreal Projects/ObstacleAssault/Content/LearningKit_Games/Maps/Untitled1.umap",
+				"C:/Users/ASUS/Documents/Unreal Projects/ObstacleAssault/Content/LearningKit_Games/Maps/Untitled2.umap"
+			]
+		}
+	]
+}

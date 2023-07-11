@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "ObstacleAssault",
+			"path": "."
+		},
+		{
+			"name": "UE5",
+			"path": "C:\\Program Files\\Epic Games\\UE_5.1"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"easycode.userEmail": "a.cetinkayaa78@gmail.com",
+		"easycode.promptPrefix.writeCode": "Bu Kodu Açıkla",
+		"easycode.promptPrefix.explain": "Bu Kodu Açıkla"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
